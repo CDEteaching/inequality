@@ -1,0 +1,44 @@
+## The Weakening Redistributive State
+
+Many factors affect the distribution of income and wealth, and a large part of them are political. A first structural explanation concerns the state.
+
+In OECD economies, taxes and transfers typically reduced the inequality of disposable income by one fifth to one quarter compared with market income (Dabla-Norris et al. 2015). In recent decades, this redistributive role has shrunk, for three reasons:
+
+- **Reduced progressivity** of personal income taxes: top marginal tax rates were cut sharply in most rich countries from the late 1970s onwards.
+- **Lower taxes on capital and corporations**, often justified as necessary for international competitiveness.
+- **Tighter spending on social programmes** due to austerity policies.
+
+The effect is a redistribution upwards, concentrating income and wealth among those who own capital.
+
+### Rich countries, poor governments
+
+The World Inequality Report 2022 shows a striking pattern: over the past 40 years, countries have become much richer, but their governments have become much poorer. In rich countries, the share of wealth held by public actors is close to zero or even negative, so that almost all wealth is in private hands. The COVID-19 crisis amplified this trend, as governments borrowed the equivalent of 10 to 20% of GDP, essentially from the private sector (Chancel et al. 2022). Poorer governments have less capacity to provide education, health, and security, and private companies increasingly take their place.
+
+### Commodification
+
+There are two basic ways in which people get access to goods and services:
+
+- They are **provided as a right of membership** in a group, for example public health care or education for all citizens or residents.
+- They are **purchased** or otherwise secured by those with money.
+
+**Commodification** is the process by which goods, services, and opportunities are increasingly allocated to those who can pay. The more essential things, such as housing, health, care, or education, are commodified, the more income inequality translates into inequality of capabilities. Rising commodification drives inequality and narrows the scope for state action.
+
+::: {.callout-important}
+## The core point
+
+Inequality outcomes can be, and are, mediated by policies, rules, and legislation. Inequality is thus *produced*. To understand it, we need to analyse what has changed in these mediators.
+:::
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q3-3a.Rmd", "quiz/q3-3b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Look up how the top income tax rate in your country has changed since 1980. What arguments were used for the change?
+- Which essential goods or services in your country have become more commodified in your lifetime?
+:::

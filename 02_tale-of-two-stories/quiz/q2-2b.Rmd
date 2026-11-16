@@ -1,0 +1,28 @@
+Question
+========
+What does point B of the elephant curve show?
+
+Answerlist
+----------
+* Almost no gains among the lower middle classes of rich countries
+* The largest gains of the global top 1%
+* Falling incomes of the global poor
+* The rise of the Asian middle classes
+
+Solution
+========
+Around the 80th global percentile, mostly lower middle classes in Western Europe and North America, real income barely grew.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What does point B of the elephant curve
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

@@ -1,0 +1,28 @@
+Question
+========
+Why are growth and education described as "hardly the silver bullets"?
+
+Answerlist
+----------
+* They matter, but growth gains can be captured by the top and education alone does not change power relations
+* Because they increase inequality in all cases
+* Because they are too expensive
+* Because they are irrelevant for poverty
+
+Solution
+========
+Growth and education are important levers, but without changes in distribution and bargaining power they do not reduce inequality on their own.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Why are growth and education described a
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

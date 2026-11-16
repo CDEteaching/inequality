@@ -1,0 +1,28 @@
+Question
+========
+What is Mazzucato's main argument about the state?
+
+Answerlist
+----------
+* The state actively creates and shapes markets, for example through high-risk public research
+* The state should only fix market failures
+* The state destroys value through taxation
+* Innovation is created only by private entrepreneurs
+
+Solution
+========
+From the internet to mRNA vaccines, many innovations rest on public investment. Risks are often public, returns private.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What is Mazzucatos main argument about t
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

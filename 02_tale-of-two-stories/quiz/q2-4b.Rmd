@@ -1,0 +1,28 @@
+Question
+========
+A graph shows the income share of the top 1% in a country over time. Which statement is correct?
+
+Answerlist
+----------
+* It shows relative inequality within a country
+* It shows absolute inequality between countries
+* It shows horizontal inequality
+* It shows multidimensional poverty
+
+Solution
+========
+An income share is a relative measure, and it refers to the distribution within one country.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: A graph shows the income share of the to
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

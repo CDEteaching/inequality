@@ -1,0 +1,28 @@
+Question
+========
+Sen's capability approach shifts the focus from ...
+
+Answerlist
+----------
+* what people have to what they are able to do and to be
+* opportunities to outcomes measured in money
+* individuals to social classes
+* national to global income
+
+Solution
+========
+Capabilities are the real freedoms to achieve valued functionings. Resources matter only insofar as people can convert them into functionings.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Sens capability approach shifts the focu
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

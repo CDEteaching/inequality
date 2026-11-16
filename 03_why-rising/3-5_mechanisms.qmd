@@ -1,0 +1,63 @@
+## How Wealth Concentrates: Synthesis
+
+So far, we have mostly looked at income, a *flow*. Wealth is a *stock*: accumulated, often inherited, harder to see, and politically less contested. Wealth inequality is systematically larger than income inequality in every region of the world (Chancel et al. 2022). Why does wealth concentrate so persistently?
+
+### r > g
+
+Thomas Piketty (2014) summarised one mechanism in a short formula: **r > g**. When the rate of return on capital (r) is higher than the growth rate of the economy (g), wealth grows faster than incomes from work, and those who already own capital pull ahead. Historically, r has exceeded g most of the time. The main exceptions were the decades after the two World Wars, when destruction, inflation, high taxes, and strong unions compressed inequality.
+
+For Piketty, this is not a law of nature. Inequality, he argues in *Capital and Ideology* (2020), is ideological and political: markets, profits, wages, capital, debt, and tax havens are social constructs that depend on the legal, tax, and political systems a society chooses.
+
+### Matthew effects
+
+Socio-economic research identifies **cumulative advantage**, or Matthew effects ("for whoever has, to him more will be given"): those with high incomes can save a larger share of their income than those with low incomes, and capital owners often earn higher returns than small savers. Both effects reinforce each other. Even pure chance can produce extreme concentration: if wealth grows by a random percentage each year, a small group ends up owning a large share over time, even without any systematic advantage. In such processes, the "average" outcome says little about what a typical person experiences.
+
+::: {.callout-note collapse="true"}
+## Deep dive: Thomas Piketty on *Capital in the Twenty-First Century*
+
+[Thomas Piketty: New thoughts on capital in the twenty-first century](https://hbr.org/video/embed/4102770682001) (Harvard Business Review video).
+:::
+
+### Synthesis
+
+Based on the analytical lens of this module, rising inequality has several interacting causes:
+
+- **Technological change** has increased productivity, but not necessarily fair rewards.
+- **Globalisation** has shifted power from labour to capital.
+- **Financialisation and asset inflation** have enriched those who were already wealthy.
+- **Institutional weakening** has removed the counterweights that once protected workers and citizens.
+
+Together, these forces have created a system in which inequality is self-reinforcing. And because it is produced by rules and institutions, it can also be changed.
+
+::: {.callout-note}
+## Exercise: Reasons in your country
+
+Alone or with a peer, take 10 minutes:
+
+1. Discuss the main reasons for inequality in your country. If you did the exercise in section 2.4, use your graph as a starting point.
+2. Which explanation for rising inequality do you find most compelling for your country, and why?
+3. Note your **muddiest point**: which explanation do you understand least? Formulate it as a question. Winter school participants post it in the course Slack channel.
+:::
+
+::: {.callout-tip collapse="true"}
+## What a good answer covers
+
+- Names at least one conventional and one structural explanation and weighs them against each other for a specific country.
+- Supports the argument with at least one piece of evidence (a statistic, a graph, a policy change).
+- Distinguishes between income and wealth, and between market and disposable income.
+- Recognises that explanations interact rather than compete.
+:::
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q3-5a.Rmd", "quiz/q3-5b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- If inequality is self-reinforcing, where could the cycle be broken?
+- Which of the four forces in the synthesis do you think will matter most in the age of artificial intelligence?
+:::

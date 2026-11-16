@@ -1,0 +1,28 @@
+Question
+========
+What does the Palma ratio compare?
+
+Answerlist
+----------
+* The income share of the richest 10% with that of the poorest 40%
+* The income share of the richest 1% with that of the poorest 50%
+* Wealth with income
+* The area between the Lorenz curve and the diagonal
+
+Solution
+========
+The Palma ratio is the income share of the top 10% divided by the share of the bottom 40%. It focuses on the tails, where most differences between countries arise.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What does the Palma ratio compare
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

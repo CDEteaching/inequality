@@ -1,0 +1,107 @@
+# References {.unnumbered}
+
+Acosta, A. (2017). Post-extractivism: From discourse to practice. In G. Carbonnier, H. Campodónico, and S. Tezanos Vázquez (Eds.), *Alternative Pathways to Sustainable Development: Lessons from Latin America* (pp. 77–101). Brill-Nijhoff.
+
+Atkinson, A. B. (1970). On the measurement of inequality. *Journal of Economic Theory* 2(3): 244–263. Reprinted with a non-mathematical summary in A. B. Atkinson (Ed.) (1973), *Wealth, Income and Inequality* (pp. 46–68). Penguin Education.
+
+Bader, C., and Bieri, S. (2017). *Global Inequality Briefing Paper*. Swiss Agency for Development and Cooperation (SDC).
+
+Bader, C., and Bieri, S. (2023). A world drifting apart: Challenges and possibilities of transitioning to a more equitable planet. In *Transitioning to Reduced Inequalities* (pp. 1–18). MDPI.
+
+Bader, C., Bieri, S., Wiesmann, U., and Heinimann, A. (2016). Differences between monetary and multidimensional poverty in the Lao PDR: Implications for targeting of poverty reduction policies and interventions. *Poverty & Public Policy* 8(2): 171–197. https://doi.org/10.1002/pop4.140
+
+Bader, C., Bieri, S., Wiesmann, U., and Heinimann, A. (2017). Is economic growth increasing disparities? A multidimensional analysis of poverty in the Lao PDR between 2003 and 2013. *The Journal of Development Studies* 53(12): 2067–2085. https://doi.org/10.1080/00220388.2016.1251587
+
+Bozio, A., Garbinti, B., Goupille-Lebret, J., Guillot, M., and Piketty, T. (2020). *Predistribution vs. Redistribution: Evidence from France and the U.S.* World Inequality Lab Working Paper. https://halshs.archives-ouvertes.fr/halshs-03022092
+
+Brynjolfsson, E., Benzell, S., and Rock, D. (2020). *Understanding and Addressing the Modern Productivity Paradox*. MIT Work of the Future. https://workofthefuture.mit.edu/research-post/understanding-and-addressing-the-modern-productivity-paradox/
+
+Ceddia, M. G. (2020). The super-rich and cropland expansion via direct investments in agriculture. *Nature Sustainability* 3(4): 312–318. https://doi.org/10.1038/s41893-020-0480-2
+
+Chancel, L. (2022). Global carbon inequality over 1990–2019. *Nature Sustainability* 5: 931–938. https://doi.org/10.1038/s41893-022-00955-z
+
+Chancel, L., Piketty, T., Saez, E., Zucman, G., et al. (2022). *World Inequality Report 2022*. World Inequality Lab. https://wir2022.wid.world/
+
+Coote, A., and Percy, A. (2020). *The Case for Universal Basic Services*. Polity Press.
+
+Dabla-Norris, E., Kochhar, K., Suphaphiphat, N., Ricka, F., and Tsounta, E. (2015). *Causes and Consequences of Income Inequality: A Global Perspective*. IMF Staff Discussion Note 15/13. https://www.imf.org/external/pubs/ft/sdn/2015/sdn1513.pdf
+
+Friedman, M., and Friedman, R. (1980). *Free to Choose*. Harcourt.
+
+Galbraith, J. K. (1952). *American Capitalism: The Concept of Countervailing Power*. Houghton Mifflin.
+
+Gough, I. (2020). The case for universal basic services. *LSE Public Policy Review* 1(2). https://doi.org/10.31389/lseppr.12
+
+Gradín, C. (2024). Revisiting the trends in global inequality. *World Development* 179: 106607. https://doi.org/10.1016/j.worlddev.2024.106607
+
+Hacker, J. S. (2011). *The Institutional Foundations of Middle-Class Democracy*. Policy Network.
+
+Harari, Y. N. (2014). *Sapiens: A Brief History of Humankind*. Harvill Secker.
+
+Hickel, J. (2016, 8 April). Global inequality may be much worse than we think. *The Guardian*. https://www.theguardian.com/global-development-professionals-network/2016/apr/08/global-inequality-may-be-much-worse-than-we-think
+
+Hickel, J. (2019, 29 January). Bill Gates says poverty is decreasing. He couldn't be more wrong. *The Guardian*.
+
+ILO (2019). *The Global Labour Income Share and Distribution*. International Labour Organization. https://www.ilo.org/ilostat-files/Documents/Labour%20income%20share%20and%20distribution.pdf
+
+ILO (2020). *Global Wage Report 2020–21: Wages and Minimum Wages in the Time of COVID-19*. International Labour Organization.
+
+Kalecki, M. (1954). *Theory of Economic Dynamics*. Allen & Unwin.
+
+Kuznets, S. (1955). Economic growth and income inequality. *American Economic Review* 45(1): 1–28.
+
+Lakner, C., and Milanovic, B. (2016). Global income distribution: From the fall of the Berlin Wall to the Great Recession. *The World Bank Economic Review* 30(2): 203–232.
+
+Lannen, A. (2019). *Inequality: What's in a Word?* (S. Bieri and C. Bader, Eds.). CDE Policy Brief 14. Centre for Development and Environment, University of Bern. https://boris.unibe.ch/130698/
+
+Lazonick, W. (2014). Profits without prosperity. *Harvard Business Review* 92(9): 46–55. https://hbr.org/2014/09/profits-without-prosperity
+
+Mazzucato, M. (2013). *The Entrepreneurial State: Debunking Public vs. Private Sector Myths*. Anthem Press.
+
+Mazzucato, M. (2021). *Mission Economy: A Moonshot Guide to Changing Capitalism*. Allen Lane.
+
+Mijs, J. J. B. (2021). The paradox of inequality: Income inequality and belief in meritocracy go hand in hand. *Socio-Economic Review* 19(1): 7–35. https://doi.org/10.1093/ser/mwy051
+
+Milanovic, B. (2016). *Global Inequality: A New Approach for the Age of Globalization*. Belknap Press of Harvard University Press.
+
+Milanovic, B. (2019). Interview: Patterns, causes and remedies of global inequalities. Graduate Institute Geneva. https://www.graduateinstitute.ch/communications/news/interview-branko-milanovic-patterns-causes-and-remedies-global-inequalities
+
+Milanovic, B. (2025, 29 September). How to control increase of income inequality due to new technologies? *Global Inequality and More 3.0* (Substack). https://branko2f7.substack.com/p/how-to-control-increase-of-income
+
+Nozick, R. (1974). *Anarchy, State, and Utopia*. Basic Books.
+
+Piketty, T. (2014). *Capital in the Twenty-First Century*. Belknap Press of Harvard University Press.
+
+Piketty, T. (2020). *Capital and Ideology*. Belknap Press of Harvard University Press.
+
+Rawls, J. (1971). *A Theory of Justice*. Harvard University Press.
+
+Reich, R. (2020). *The System: Who Rigged It, How We Fix It*. Knopf.
+
+Ricardo, D. (1817). *On the Principles of Political Economy and Taxation*. John Murray.
+
+Robeyns, I. (2005). The capability approach: A theoretical survey. *Journal of Human Development* 6(1): 93–117. https://doi.org/10.1080/146498805200034266
+
+Sandel, M. J. (2020). *The Tyranny of Merit: What's Become of the Common Good?* Farrar, Straus and Giroux.
+
+Scheidel, W. (2017). *The Great Leveler: Violence and the History of Inequality from the Stone Age to the Twenty-First Century*. Princeton University Press.
+
+Sen, A. (1979). Equality of what? *The Tanner Lectures on Human Values* 1: 353–369.
+
+Sen, A. (1999). *Development as Freedom*. Oxford University Press.
+
+SGB (2018). *Verteilungsbericht 2018*. Schweizerischer Gewerkschaftsbund. https://www.verteilungsbericht.ch/
+
+SSRC (n.d.). Income inequality in rich countries: Examining changes in economic disparities. *Items*, Social Science Research Council. https://items.ssrc.org/what-is-inequality/income-inequality-in-rich-countries-examining-changes-in-economic-disparities/
+
+Stewart, F. (2005). Horizontal inequalities: A neglected dimension of development. In A. B. Atkinson et al. (Eds.), *Wider Perspectives on Global Development* (pp. 101–135). Palgrave Macmillan. https://doi.org/10.1057/9780230501850_5
+
+Trapeznikova, I. (2019). Measuring income inequality. *IZA World of Labor* 462. https://doi.org/10.15185/izawol.462
+
+UNDP (2013). *Humanity Divided: Confronting Inequality in Developing Countries*. United Nations Development Programme.
+
+Varoufakis, Y. (2020). *Another Now: Dispatches from an Alternative Present*. Bodley Head.
+
+World Inequality Lab (2026). *World Inequality Report 2026*. https://wir2026.wid.world/
+
+World Bank (2016). *Poverty and Shared Prosperity 2016: Taking on Inequality*. World Bank.

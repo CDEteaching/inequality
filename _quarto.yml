@@ -1,0 +1,74 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - "*.png"
+    - "*.gif"
+    - "*.svg"
+
+execute:
+  engine: knitr
+  echo: false
+
+book:
+  title: "Inequality: A Tale of Two Stories"
+  subtitle: "Concepts, trends, causes, and the politics of inequality"
+  author: "Christoph Bader"
+  favicon: images/cdelogo_e.png
+  reader-mode: true
+  page-navigation: true
+  back-to-top-navigation: true
+  search: true
+  site-url: https://cdeteaching.github.io/inequality/
+  repo-url: https://github.com/CDEteaching/inequality
+  repo-actions: [issue]
+
+  sidebar:
+    search: true
+    logo: images/cdelogo_e.png
+    tools:
+      - icon: bug
+        href: https://github.com/CDEteaching/inequality/issues/new
+        text: "Report issue"
+
+  page-footer:
+    border: true
+    left: |
+      This is a product of <a href="https://www.cde.unibe.ch/">![](/images/cdelogo_e.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>. This work is licensed under a [CC-BY-NC-SA 4.0 Int License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+  chapters:
+    - index.qmd
+    - part: "Self-paced module"
+      chapters:
+        - 01_whats-in-a-word/1_chapter.qmd
+        - 02_tale-of-two-stories/2_chapter.qmd
+        - 03_why-rising/3_chapter.qmd
+        - 04_way-forward/4_chapter.qmd
+    - part: "Live session"
+      chapters:
+        - winter-school/session.qmd
+    - resources.qmd
+    - references.qmd
+
+number-depth: 2
+
+format:
+  html:
+    mainfont: "Roboto, 'Helvetica Neue', Arial, sans-serif"
+    monofont: "'Fira Code', Consolas, monospace"
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    theme:
+      light: [theme.scss]
+      dark: [darkly]
+    toggle: true
+    default-mode: light
+    callout-icon: false
+    css: webex.css
+    include-after-body: webex.js
+    df-print: kable

@@ -1,0 +1,28 @@
+Question
+========
+Which of the following is NOT one of the four forces named in the synthesis of chapter 3?
+
+Answerlist
+----------
+* Lack of individual effort
+* Technological change without fair rewards
+* Financialisation and asset inflation
+* Institutional weakening of countervailing powers
+
+Solution
+========
+The synthesis names technological change, globalisation, financialisation, and institutional weakening. Together they make inequality self-reinforcing.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Which of the following is NOT one of the
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

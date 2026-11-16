@@ -1,0 +1,28 @@
+Question
+========
+What is Sandel's main critique in The Tyranny of Merit?
+
+Answerlist
+----------
+* The belief that success reflects merit creates hubris among winners and humiliation among losers
+* Education has no effect on income
+* Meritocracy has been fully achieved in the US
+* Talent is evenly distributed
+
+Solution
+========
+Sandel argues that meritocratic beliefs make winners see their success as their own doing and blame losers for their fate, fuelling populism.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What is Sandels main critique in The Tyr
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

@@ -1,0 +1,28 @@
+Question
+========
+What does commodification mean?
+
+Answerlist
+----------
+* Goods, services, and opportunities are increasingly allocated to those who can pay
+* Public services are expanded to all residents
+* Commodity prices rise on world markets
+* Firms produce more standardised goods
+
+Solution
+========
+When essential goods such as health, housing, or education must be purchased rather than being provided as a right, income inequality becomes inequality of capabilities.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What does commodification mean
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

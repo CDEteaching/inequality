@@ -1,0 +1,28 @@
+Question
+========
+How can relative convergence and absolute divergence occur at the same time?
+
+Answerlist
+----------
+* Small percentage gains on high incomes are worth more in money than large percentage gains on low incomes
+* Because the data for the two views come from different years
+* Because absolute measures ignore the rich
+* They cannot occur at the same time
+
+Solution
+========
+A 10% gain on 1,000 dollars is 100 dollars; on 1,000,000 dollars it is 100,000. Ratios can converge while dollar gaps widen.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: How can relative convergence and absolut
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

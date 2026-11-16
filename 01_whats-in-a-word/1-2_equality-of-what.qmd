@@ -1,0 +1,62 @@
+## Equality of What?
+
+In his Tanner Lecture of 1979, Amartya Sen asked a deceptively simple question: *Equality of what?* Before we can talk about fairness, we have to decide two things.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+## Where and among whom?
+
+- **Within countries**: between individuals, genders, ethnic groups, generations, or regions
+- **Between countries**: comparing average incomes of nations
+- **Global inequality**: among all people of the world, regardless of where they live
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.callout-note appearance="simple"}
+## Of what?
+
+Income, wealth, health, education, opportunities, quality of life, voice and participation, exposure to climate risks, and more.
+:::
+:::
+
+:::
+
+The choice of the *focal variable* (what we compare) and the *reference unit* (among whom) already shapes the answer. Income inequality in Switzerland, wealth inequality in Switzerland, and global income inequality tell three different stories.
+
+### Outcome or opportunity?
+
+Much of the debate boils down to two perspectives:
+
+- **Inequality of outcome** occurs when individuals do not have the same level of material wealth or living conditions. It is usually measured in monetary terms.
+- **Inequality of opportunity** asks whether people have the same chances, regardless of circumstances they did not choose, such as their parents' income, their gender, or where they were born.
+
+Advocates of equality of opportunity often argue that as long as everyone has the same chances, nobody can complain about the results. But today's outcomes are tomorrow's opportunities: the income of your parents shapes your education, your health, and your network. A report by UNDP calls the opposition between the two a "false dichotomy": outcome and opportunity are two sides of the same coin, and policies against inequality must address both (UNDP 2013).
+
+### The capability approach: from equality to equity
+
+Sen's capability approach shifts the focus from what people *have* to what they are *able to do and to be*.
+
+- **Functionings** are the beings and doings people value: being healthy, being educated, taking part in the life of the community.
+- **Capabilities** are the real freedoms to achieve these functionings.
+- **Conversion factors** (personal, social, and environmental) determine whether resources such as income or public services can be turned into functionings.
+
+> "A disabled person will likely find it harder to achieve important and worthwhile goals than will a nondisabled person, even assuming they have access to equivalent bundles of resources." (Sen, cited in Robeyns 2005)
+
+Two people with the same income may have very different real freedoms if one of them faces discrimination, has a disability, or lacks access to transport. Equalising income is therefore not enough. The capability approach moves us from **equality** (everyone receives the same input) to **equity** (what does each person need to reach a comparable level of well-being?). Martha Nussbaum extended the approach with a list of ten central capabilities that every society should secure for all its members, from bodily health to control over one's environment.
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q1-2a.Rmd", "quiz/q1-2b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- If you had to choose only one to prioritise in society, which would you choose: equality of opportunity or equality of outcome? Why?
+- Which dimension of inequality do you personally find most relevant: income, opportunities, or participation?
+:::

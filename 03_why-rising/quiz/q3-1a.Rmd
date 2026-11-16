@@ -1,0 +1,28 @@
+Question
+========
+According to the theory of skill-biased technological change, why does inequality rise?
+
+Answerlist
+----------
+* Technology raises demand for highly skilled workers faster than education supplies them
+* Trade unions demand too high wages
+* Governments tax capital too heavily
+* Profits are spent on share buybacks
+
+Solution
+========
+When skill supply does not keep pace with technology, the wage gap between skilled and less skilled workers grows.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: According to the theory of skillbiased t
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

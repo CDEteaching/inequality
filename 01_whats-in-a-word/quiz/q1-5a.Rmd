@@ -1,0 +1,28 @@
+Question
+========
+Which family of theories of justice sees inequality as unproblematic as long as it results from free choices and voluntary exchange?
+
+Answerlist
+----------
+* Libertarian theories
+* Liberal egalitarian theories
+* Collectivist theories
+* The capability approach
+
+Solution
+========
+Libertarians such as Nozick and the Friedmans give heavy weight to freedom and private property and see market outcomes as just if exchanges are voluntary.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Which family of theories of justice sees
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

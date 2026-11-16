@@ -1,0 +1,28 @@
+Question
+========
+According to Milanovic, roughly how much of income differences across the world is explained by country of birth and parents' income together?
+
+Answerlist
+----------
+* About 80%
+* About 20%
+* About 50%
+* Almost nothing; effort explains most of it
+
+Solution
+========
+Milanovic estimates about 60% for country of birth and about 20% for parents' income position, leaving about 20% for effort, luck, and other factors.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: According to Milanovic roughly how much
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

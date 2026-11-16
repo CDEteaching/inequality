@@ -1,0 +1,28 @@
+Question
+========
+How is inequality linked to sustainability, according to Chancel (2022)?
+
+Answerlist
+----------
+* The global top 10% of emitters cause almost half of all greenhouse gas emissions
+* Emissions are distributed roughly equally across income groups
+* The poorest half of the world population causes most emissions
+* There is no measurable link between income and emissions
+
+Solution
+========
+Chancel shows that the global top 10% of emitters are responsible for almost half of emissions, while the bottom half causes about a tenth.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: How is inequality linked to sustainabili
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

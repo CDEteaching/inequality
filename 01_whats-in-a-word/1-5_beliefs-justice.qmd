@@ -1,0 +1,58 @@
+## Beliefs and Theories of Justice
+
+Different concepts and perspectives identify different causes of inequality, and therefore lead to different solutions. Which concepts we choose depends on our beliefs, our worldviews, our social backgrounds, and the theories of justice we hold. Even the measurement of inequality is not value-free. As Anthony Atkinson (1973) put it, conventional measures "embody quite arbitrary values about the distribution of income"; that no explicit judgement is needed to compute them "simply obscures" this fact.
+
+### Three families of theories of justice
+
+| Family | Core idea | View of inequality | Thinkers |
+|---|---|---|---|
+| **Libertarian** | Heavy weight on individual freedom and private property; the market is the best allocation mechanism | Not a problem as long as it results from free choices and voluntary exchange | Milton and Rose Friedman (*Free to Choose*, 1980), Robert Nozick (*Anarchy, State, and Utopia*, 1974) |
+| **Liberal egalitarian** | Society is analysed in terms of its individual members; markets are efficient but produce poverty and inequality that the state can and should reduce | Acceptable only under fair conditions | John Rawls (*A Theory of Justice*, 1971), Ronald Dworkin |
+| **Collectivist** | Society consists of social classes defined by their relation to the means of production | Structural, produced by the economic system itself | Marxian traditions, John Roemer; communitarian critiques such as Michael Sandel |
+
+Rawls invites us to imagine a **veil of ignorance**: if you did not know where in society you would be born, which rules would you choose? His *difference principle* allows inequalities only if they benefit the least advantaged. Sen criticised Rawls for focusing on resources ("primary goods") and overlooking the diversity of people's ability to convert them into a good life, which brings us back to the capability approach.
+
+Utilitarianism (Jeremy Bentham, John Stuart Mill) offers yet another lens: the just action is the one that produces the greatest good for the greatest number. It has little to say about how that good is distributed.
+
+::: {.callout-note collapse="true"}
+## Deep dive: Michael Sandel's *Justice* lectures
+
+Michael Sandel's Harvard course gives an accessible introduction to these theories. Start with [Episode 1, "The moral side of murder"](https://www.youtube.com/watch?v=kBdfcR-8hEY).
+:::
+
+### What do we believe?
+
+Here is a thought experiment used in many classrooms. Divide the population of your country into five groups of equal size, from the poorest 20% to the richest 20%. Before looking at any data:
+
+1. How do you *think* wealth is distributed among the five groups?
+2. How *should* it ideally be distributed?
+
+Then compare your answers with the data. For Switzerland, the richest 20% own the overwhelming majority of net wealth, while the poorest 20% own close to nothing or have net debts (SGB 2018). Studies consistently find that people underestimate how unequal their societies are, and that their ideal distribution is far more equal than both their estimate and reality. We return to this in section 4.5.
+
+### Conclusion
+
+> Accounting for inequality implies a debate about the level of difference that is ethically justifiable, politically negotiable, and economically viable. (Bader and Bieri 2017)
+
+::: {.callout-important}
+## Key takeaways of chapter 1
+
+- Inequality always means a comparison: of something (income, wealth, capabilities) among someone (individuals, groups, countries).
+- Outcome and opportunity are two sides of the same coin.
+- Every measure makes value judgements. The Gini is relative and insensitive to the extremes; complement it.
+- Individual explanations focus on effort; structural explanations show that birthplace and parents' income explain most income differences worldwide.
+- Our theories of justice shape what we see as a problem and which solutions we consider.
+:::
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q1-5a.Rmd", "quiz/q1-5b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Go back to the words you used to finish the sentence "Inequality is ..." at the start of the chapter. Which theory of justice do they reflect?
+- Behind the veil of ignorance, which rules for your society would you choose?
+:::

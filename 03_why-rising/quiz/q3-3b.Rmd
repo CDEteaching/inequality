@@ -1,0 +1,28 @@
+Question
+========
+Which developments have weakened the redistributive role of the state? (Select all that apply.)
+
+Answerlist
+----------
+* Lower top income tax rates
+* Lower taxes on capital and corporations
+* Austerity in social spending
+* Rising union membership
+
+Solution
+========
+Reduced tax progressivity, lower capital and corporate taxes, and austerity have all reduced redistribution. Union membership has declined, not risen.
+
+Answerlist
+----------
+* True
+* True
+* True
+* False
+
+Meta-information
+================
+exname: Which developments have weakened the red
+extype: mchoice
+exsolution: 1110
+exshuffle: TRUE

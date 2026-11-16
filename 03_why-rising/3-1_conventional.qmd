@@ -1,0 +1,33 @@
+## The Conventional Wisdom
+
+The standard explanation sounds neutral, almost technical. It rests on two forces.
+
+**Skill-biased technological change.** Technological change transforms markets and the way we work. Automation and digitalisation increase the demand for highly skilled workers and reduce the demand for routine labour. When education does not keep pace with technology, skilled workers become scarce, and the wage gap between them and less skilled workers grows. Today, digitalisation and artificial intelligence are starting to replace human labour at higher skill levels too.
+
+**Globalisation.** Capital became mobile: firms can relocate production, outsource services, or automate. Labour remained largely national. Workers in rich countries were exposed to competition with workers in lower-wage countries, which put pressure on wages and labour standards.
+
+::: {.callout-note}
+## Example: the car industry in Detroit
+
+Car manufacturing used to rely on manual labour. Many assembly-line jobs did not require advanced education and paid enough to support a family. As robots took over painting, welding, and assembly, far fewer workers were needed on the factory floor, while engineers, technicians, and programmers were in high demand. Combined with competition from lower-wage locations, this hollowed out whole regions of the US, which became known as the "Rust Belt."
+:::
+
+In this story, inequality is the result of education gaps and global competition, not of power. The conclusion is that rising inequality is essentially a natural market process: you may not like it, but there is little you can or should do about it, except invest in skills and let the market adjust. The underlying assumption is that free markets pay workers according to their contribution.
+
+Robert Reich, former US Secretary of Labor, argues that this conventional wisdom is not wrong, but that it leaves out some of the largest and most important changes. The next sections look at them.
+
+{{< video https://www.youtube.com/watch?v=fMmH_2EYohQ >}}
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q3-1a.Rmd", "quiz/q3-1b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Do you know a region or an industry in your country that was transformed by automation or relocation? Who won, who lost?
+- If inequality is a "natural" market outcome, what follows for politics?
+:::

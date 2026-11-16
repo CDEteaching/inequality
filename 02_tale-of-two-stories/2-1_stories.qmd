@@ -1,0 +1,34 @@
+## Growth, Poverty, and Inequality
+
+### We live by stories
+
+In *Sapiens*, the historian Yuval Noah Harari argues that what distinguishes humans from other animals is our ability to believe in shared stories:
+
+> "You could never convince a monkey to give you a banana by promising him limitless bananas after death in monkey heaven." (Harari 2014)
+
+Because we believe in stories (nations, laws, money, markets), we can cooperate with countless strangers. The same holds for inequality. People accept hierarchies because they believe in collective narratives: meritocracy, national progress, market freedom. Which story about inequality do *you* believe in?
+
+### Is growth the solution or the problem?
+
+Development strategies rest on assumptions about how three things are linked: **economic growth**, **poverty**, and **inequality**.
+
+- In one story, growth is the solution. A rising tide lifts all boats: growth reduces poverty, and inequality either falls over time or does not matter much as long as the poor are better off. This story underlies the trickle-down argument and is closest to the libertarian view of justice.
+- In the other story, growth as it is currently organised is part of the problem. Its gains are captured by those who already own assets, inequality rises, and poverty reduction stays far below what growth could deliver. This story is closer to liberal egalitarian and collectivist views.
+
+The famous **Kuznets curve** (1955) proposed a middle ground: inequality first rises with industrialisation and then falls as economies mature. Later research has largely failed to confirm an automatic turning point. Where inequality fell, as in Europe and North America after 1945, this was driven by wars, crises, and deliberate policies such as progressive taxation and strong trade unions, not by growth as such (Piketty 2014; Scheidel 2017).
+
+Since the 1980s, two stories coexist. One is of progress: hundreds of millions of people have left extreme poverty, largely thanks to growth in China, India, and Vietnam. The other is of polarisation: income and wealth have become concentrated at the very top, and many societies are drifting apart. The next two sections examine both.
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q2-1a.Rmd", "quiz/q2-1b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Which of the two stories do you hear more often in your country? Who tells it?
+- Can you think of a period or place where growth went together with falling inequality? What else was happening at the time?
+:::

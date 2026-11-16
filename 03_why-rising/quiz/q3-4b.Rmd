@@ -1,0 +1,28 @@
+Question
+========
+What characterises the "downsize and distribute" strategy described by Lazonick?
+
+Answerlist
+----------
+* Profits are paid out to shareholders through dividends and share buybacks rather than reinvested in workers and products
+* Profits are reinvested in skills, pay, and new products
+* Firms reduce executive pay to save jobs
+* Firms distribute shares to all employees
+
+Solution
+========
+Since the 1980s, many firms shifted from retain-and-invest to downsize-and-distribute, which favours shareholders and executives.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What characterises the downsize and dist
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

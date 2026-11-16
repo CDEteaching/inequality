@@ -1,0 +1,28 @@
+Question
+========
+Which of the following are pre-distributive measures? (Select all that apply.)
+
+Answerlist
+----------
+* Limits on top pay relative to the median
+* Employee stock ownership plans
+* Living wages
+* A higher inheritance tax
+
+Solution
+========
+Pay limits, employee ownership, and living wages shape market incomes. An inheritance tax is redistribution.
+
+Answerlist
+----------
+* True
+* True
+* True
+* False
+
+Meta-information
+================
+exname: Which of the following are predistributi
+extype: mchoice
+exsolution: 1110
+exshuffle: TRUE

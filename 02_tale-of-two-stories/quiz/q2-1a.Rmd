@@ -1,0 +1,28 @@
+Question
+========
+What did the Kuznets curve originally propose?
+
+Answerlist
+----------
+* Inequality first rises with industrialisation and later falls as economies mature
+* Inequality falls steadily with growth from the start
+* Inequality rises forever with growth
+* Growth and inequality are unrelated
+
+Solution
+========
+Kuznets (1955) proposed an inverted U. Later research found no automatic turning point; where inequality fell, policies, wars, and crises played a central role.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What did the Kuznets curve originally pr
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

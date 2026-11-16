@@ -1,0 +1,50 @@
+## Beyond Income: A Case Study and Your Own Graph
+
+### Case study: growth and poverty in Laos
+
+Lao PDR is a good example of why the choice of measure matters. Between 2003 and 2013, the country recorded high economic growth and impressive poverty reduction: measured with the international monetary poverty line of USD 1.90 a day, poverty fell by about 40%.
+
+But who benefited? A multidimensional analysis of poverty, which looks at deprivations in education, health, and living standards rather than income alone, tells a more mixed story (Bader et al. 2016, 2017):
+
+- Monetary and multidimensional poverty often do not identify the same people as poor. Policies targeting only the monetary poor miss many deprived households.
+- Over the same period, malnutrition remained widespread: according to the WHO, around 40% of children under five were stunted, a level of undernutrition that impairs development.
+- Inequalities within Laos are as large as global inequalities, and they follow horizontal lines: ethnic minorities in remote upland areas benefited far less from growth than the lowland majority.
+
+Growth reduced income poverty, but it also increased disparities. A single monetary indicator hid both the persistence of non-income deprivation and the growing gaps between groups.
+
+### Exercise: My inequality graph {#sec-my-graph}
+
+::: {.callout-note}
+## Exercise (preparation for the live session)
+
+1. Go to the [World Inequality Database](https://wid.world/) and explore its *World* view and *Country* graphs.
+2. Pick one graph or picture that tells an interesting story about inequality: one you find illuminating, surprising, or confusing.
+3. Write two or three sentences explaining your choice: What does the graph show? Which story does it tell?
+4. Then analyse it with the concepts of this module: Does it show **relative or absolute** inequality? Inequality **within or between** countries? Does it suggest an **individual or structural** explanation? What does it leave out?
+
+**Winter school participants:** post your graph and sentences on the session's [Miro board](https://miro.com/app/board/uXjVEN0-B3o=/?share_link_id=815660152186) before the session (link on the [Live session](../winter-school/session.qmd) page).
+:::
+
+::: {.callout-tip collapse="true"}
+## What a good answer covers
+
+- States precisely what is measured: income or wealth, before or after taxes, which population and which years.
+- Identifies whether the graph shows relative shares, ratios, or absolute amounts, and how the story might change with the other perspective.
+- Names the reference unit (within a country, between countries, global).
+- Notes at least one thing the graph cannot show, such as non-income dimensions, horizontal inequalities, or what happens within the top 1%.
+- Links the graph to one of the two stories of this chapter.
+:::
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q2-4a.Rmd", "quiz/q2-4b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Which story does your graph tell? Would someone holding the opposite story read it differently?
+- What would a multidimensional view add to your graph?
+:::

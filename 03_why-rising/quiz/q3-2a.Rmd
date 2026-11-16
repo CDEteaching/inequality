@@ -1,0 +1,28 @@
+Question
+========
+Which analytical lens does this module use to explain rising inequality?
+
+Answerlist
+----------
+* The capability approach combined with a systemic and structural approach
+* A purely individual approach based on effort
+* A libertarian approach based on voluntary exchange
+* A utilitarian approach based on total welfare
+
+Solution
+========
+The module combines the capability approach with a structural view of institutions, rules, and power (Bader and Bieri 2023).
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Which analytical lens does this module u
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

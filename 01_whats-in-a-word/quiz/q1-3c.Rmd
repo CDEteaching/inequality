@@ -1,0 +1,28 @@
+Question
+========
+Inequality between ethnic groups in a country is an example of ...
+
+Answerlist
+----------
+* horizontal inequality
+* vertical inequality
+* absolute inequality
+* between-country inequality
+
+Solution
+========
+Horizontal inequalities are inequalities between culturally defined groups (Stewart 2005); vertical inequality is among individuals or households.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Inequality between ethnic groups in a co
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

@@ -1,0 +1,28 @@
+Question
+========
+What does the Laos case study show?
+
+Answerlist
+----------
+* Growth reduced monetary poverty while non-income deprivation and disparities between groups persisted or grew
+* Growth eliminated all forms of poverty
+* Monetary and multidimensional poverty always identify the same people
+* Inequality in Laos is much smaller than global inequality
+
+Solution
+========
+Monetary poverty fell by about 40%, but malnutrition remained widespread and inequalities, especially between ethnic groups and regions, were as large as global ones.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What does the Laos case study show
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

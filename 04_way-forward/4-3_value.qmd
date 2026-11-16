@@ -1,0 +1,33 @@
+## Beyond the Invisible Hand: Who Creates Value?
+
+Behind many debates on inequality lies a deeper belief: that the market is the best allocation mechanism, that market outcomes are objectively fair, and that the profits companies make are therefore entirely their own doing. From this belief follows that the state should not tax them much.
+
+Mariana Mazzucato challenges this belief. In *The Entrepreneurial State* (2013) and *Mission Economy* (2021), she shows that many of the innovations underpinning modern economies, from the internet and GPS to the touchscreen and mRNA vaccines, would not exist without state-funded, high-risk research. The state does not only fix market failures; it actively creates and shapes markets. Yet the risks of innovation are often public, while the returns are private. The return on public investment, in this view, comes through taxes, public ownership stakes, or conditions attached to public funding.
+
+This leads to three proposals:
+
+- **Break up the myth that only business creates value.** The economy is co-produced by public investment, private entrepreneurship, care work, and collective infrastructure. (Until the 1960s, banking and finance were not even counted as productive in national accounts; what counts as "value" is itself a political decision.)
+- **Correct the fiscal bias in favour of capital.** Today, labour is heavily taxed, and social security systems depend on it, which makes labour expensive. This creates incentives towards "excessive automation" that destroys jobs without necessarily increasing productivity (Brynjolfsson et al. 2020).
+- **Redirect technological progress** towards resource productivity rather than labour productivity: saving energy and materials rather than people.
+
+::: {.callout-note collapse="true"}
+## Deep dive: Mazzucato and mission-oriented policy
+
+- Lecture: [Mariana Mazzucato: The market shaping forces of capitalism](https://www.youtube.com/watch?v=qSt5suImn78) (Rethinking Capitalism lecture series).
+- Podcast: [Why we need a mission-driven economy (with Mariana Mazzucato)](https://podcasts.apple.com/it/podcast/mission-economy-with-mariana-mazzucato/id1445901378?i=1000574743165), Pitchfork Economics.
+- Rodrik, D. (2020). [Democratizing innovation](https://www.project-syndicate.org/commentary/policymakers-should-influence-course-of-technological-innovation-by-dani-rodrik-2020-08). Project Syndicate.
+:::
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q4-3a.Rmd", "quiz/q4-3b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Think of a product you use every day. Which parts of it rest on publicly funded research or infrastructure?
+- Should taxes on labour be lowered and taxes on capital or resources raised? What would be the consequences for your country's social security system?
+:::

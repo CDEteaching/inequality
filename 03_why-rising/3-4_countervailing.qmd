@@ -1,0 +1,54 @@
+## Countervailing Powers and the Use of Profits
+
+### Countervailing powers
+
+In 1952, the economist John Kenneth Galbraith introduced the idea of **countervailing powers**: trade unions, cooperatives, small retailers, local banks, and public regulation that balance the power of large corporations. Capitalism, he argued, works in a socially acceptable way only when such counterweights exist. Since the 1980s, many of them have been weakened or dismantled: union membership has declined, labour markets were deregulated, and market concentration has grown.
+
+Robert Reich (2020) describes the result as a vicious cycle: big money from large corporations, financial markets, and the wealthy shapes the rules of the economic and social game, and these rules in turn favour the top at the expense of everyone else. From this perspective, rising inequality is not only a market failure; it is also a policy success for those who benefit from it.
+
+### Productivity and wages
+
+Mainstream theory says that wages reflect productivity: if workers produce more, they should earn more. For the decades after the Second World War, often called the "golden age of capitalism," real wages in rich countries indeed tracked productivity.
+
+Since then, a gap has opened. The International Labour Organization reports that in 52 high-income countries, labour productivity grew by 21.8% between 1999 and 2019, while real wages grew by only 14.3% (ILO 2020). The benefits of higher productivity are increasingly captured by the owners of capital rather than passed on to workers. Globally, the share of national income going to labour has declined (ILO 2019).
+
+::: {.callout-note}
+## Hypothesis
+
+The abolition of countervailing powers such as trade unions and the weakening redistributive role of the state have contributed to the gap between productivity growth and real wage growth in high-income countries.
+:::
+
+### Where do the profits go?
+
+If productivity gains do not go to wages, where do they go? William Lazonick distinguishes two corporate strategies:
+
+| Retain and invest (value creation) | Downsize and distribute (value extraction) |
+|---|---|
+| Dominant from the 1940s to the 1970s | Dominant since the 1980s |
+| Profits are reinvested: expanding skills, raising pay, hiring people, creating new products | Profits are paid out to shareholders through dividends and **share buybacks**; jobs become insecure and executive pay explodes |
+| Real wages track productivity | Erosion of middle-class employment |
+
+In a share buyback, a company purchases its own shares on the market. This reduces the number of shares, increases earnings per share, and typically lifts the share price, which benefits shareholders and executives paid in stock (Lazonick 2014). Some large companies have spent more than 100% of their profits on buybacks and dividends over several years, borrowing to pay out their shareholders. An analysis of Apple's annual reports for 2012 to 2018 by the author of this module found such a pattern.
+
+This links back to Kalecki (section 1.4): when profits rise but are not reinvested, demand weakens and growth slows. **Financialisation**, the growing weight of financial markets and motives in the economy, rewards existing wealth rather than productive activity and thereby amplifies inequality.
+
+::: {.callout-note collapse="true"}
+## Deep dive: Lazonick on profits without prosperity
+
+- Lazonick, W. (2014). [Profits without prosperity](https://hbr.org/2014/09/profits-without-prosperity). *Harvard Business Review*.
+- Lecture: [The firm, competition and the sources of productivity growth](https://www.youtube.com/watch?v=qJIrIy54-oc) (UCL Institute for Innovation and Public Purpose, 2019).
+:::
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q3-4a.Rmd", "quiz/q3-4b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Which countervailing powers exist in your country today? Which have become weaker or stronger?
+- Should a company be free to decide how to use its profits? What do you think the company owes its workers and the public?
+:::

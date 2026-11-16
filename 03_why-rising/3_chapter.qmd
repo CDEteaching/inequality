@@ -1,0 +1,16 @@
+---
+title: "Why Is Inequality Rising?"
+lightbox: true
+---
+
+We have seen what inequality looks like. Now we ask why it has been rising in most countries since the 1980s. There is no single explanation: economists, sociologists, and political scientists offer different narratives. This chapter starts with the most common mainstream explanation and then moves to structural and political economy accounts. The central question is whether rising inequality is a natural market outcome or whether it is produced.
+
+{{< include "3-1_conventional.qmd" >}}
+
+{{< include "3-2_lens.qmd" >}}
+
+{{< include "3-3_state.qmd" >}}
+
+{{< include "3-4_countervailing.qmd" >}}
+
+{{< include "3-5_mechanisms.qmd" >}}

@@ -1,0 +1,28 @@
+Question
+========
+According to Piketty, why must every society justify its inequalities?
+
+Answerlist
+----------
+* Because without accepted reasons the political and social structure is in danger of collapse
+* Because inequality always reduces economic growth
+* Because international law requires it
+* Because people are naturally envious
+
+Solution
+========
+Piketty frames inequality as a question of legitimacy: unless reasons are found for it, the whole political and social structure is in danger.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: According to Piketty why must every soci
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

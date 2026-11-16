@@ -1,0 +1,34 @@
+---
+title: "Live Session: Inequality, a Tale of Two Stories"
+---
+
+This page accompanies the inequality session of the **CDE Online International Bachelor and Master Winter School** *Co-designing pathways for transformative change* (session 7, 27 January 2026). The session follows the storyline of this module. Participants receive the slides via Slack.
+
+## Before the session
+
+::: {.callout-note}
+## Preparation (about 2 hours)
+
+1. Read the CDE Policy Brief [*Inequality: What's in a word?*](https://boris.unibe.ch/130698/) (Lannen 2019).
+2. Work through chapter 1 of this module.
+3. Complete the exercise [My inequality graph](../02_tale-of-two-stories/2_chapter.qmd#sec-my-graph) and post your graph with two or three sentences on the [Miro board](https://miro.com/app/board/uXjVEN0-B3o=/?share_link_id=815660152186).
+:::
+
+## Session plan (90 minutes)
+
+| Time | Part | Activity | Module chapter |
+|---|---|---|---|
+| 0:00 | Check-in | "What is inequality? Finish the sentence with one word" (Menti word cloud) | 1.1 |
+| 0:05 | 1 Inequality: What's in a word? | Input: equality of what, outcome and opportunity, vertical and horizontal, Gini, individual and structural, theories of justice. Quick poll: opportunity or outcome? | 1.2 to 1.5 |
+| 0:25 | 2 What is happening? | Input: two stories, elephant curve in relative and absolute terms, poverty lines | 2.1 to 2.3 |
+| 0:40 | | **Gallery walk on Miro** (5 min): Which perspective do you recognise in your colleagues' graphs? Relative or absolute, between or within, individual or structural? Which story does your graph tell? | 2.4 |
+| 0:50 | 3 Why is inequality rising? | Input: conventional wisdom, analytical lens, weakening state, countervailing powers, use of profits | 3.1 to 3.5 |
+| 1:05 | | **Break-out in pairs** (10 min): main reasons for inequality in your countries; most compelling explanation; muddiest point posted in Slack | 3.5 |
+| 1:15 | 4 The way forward | Input: silver bullets, value creation, pre-distribution, ESOP, universal basic services, information revolution | 4.1 to 4.5 |
+| 1:25 | Check-out | **It's in your hands!** In pairs (3 min): as a benevolent world leader, which one policy would you put in place tomorrow? | 4.5 |
+
+## After the session
+
+- Muddiest points: questions posted in Slack are answered by the lecturer within a few days. Reply to your colleagues' questions in thread mode.
+- Work through chapters 2 to 4 at your own pace. Nothing is graded.
+- Explore the [Resources](../resources.qmd) page for videos, podcasts, and further reading.

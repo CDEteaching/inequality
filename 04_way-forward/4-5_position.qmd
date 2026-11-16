@@ -1,0 +1,44 @@
+## Be Clear About Your Position
+
+### Where do incomes come from?
+
+Your position in relation to the means of production (section 1.4) still matters. In rich countries, the median household receives most of its income, around 70 to 80%, from wages and salaries, and most of the rest from pensions and social security. For the top 0.01%, the picture is reversed: around 80% of their income comes from capital gains, interest, and dividends, and only about 15% from wages and salaries (SSRC n.d.).
+
+Milanovic (2025) estimates that 77% of households in advanced and middle-income economies have zero or close to zero cash income from capital. If so few people own financial and productive capital, the gains from new technologies such as artificial intelligence, which raise the importance of capital, will accrue to those who already own it. Inequality would rise even if nobody became poorer.
+
+::: {.callout-note}
+## Where are you?
+
+Use the [WID income comparator](https://wid.world/income-comparator/) to see where you stand in the income distribution of your country and of the world.
+:::
+
+### Information revolution
+
+Most people underestimate how unequal their societies are, and they tend to rank their own position higher than it actually is. Mijs (2021) finds a paradox: in more unequal societies, citizens are *more* likely to explain inequality in meritocratic terms, while people in more equal countries are more likely to see structural causes. Inequality and the belief in meritocracy go hand in hand.
+
+Rising inequality does not seem to be a problem people constantly worry about. Awareness raising and better information could make it more tangible. If the structures and reward systems that reproduce inequality become visible, political preferences may shift and open the way for new initiatives in pre- and redistribution.
+
+::: {.callout-important}
+## Key takeaways of chapter 4
+
+- Growth and education are important, but hardly silver bullets.
+- Better diagnosis comes first: multidimensional, group-sensitive measures and better data on wealth.
+- Value is co-created by the public and private sectors; tax systems should reflect this.
+- Pre-distribution (ownership, bargaining power, pay rules, universal basic services) complements redistribution.
+- Where you stand shapes what you see: be clear about your own position.
+:::
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q4-5a.Rmd", "quiz/q4-5b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Look back at your notes from the Reflect boxes. Which of your views has changed most during this module?
+- Where do you stand now: which story about inequality do you find more convincing, and why?
+- It's in your hands: if you were a benevolent world leader and could put one policy to reduce inequality in place tomorrow, which one would it be?
+:::

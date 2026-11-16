@@ -1,0 +1,28 @@
+Question
+========
+Two people have the same income, but one of them uses a wheelchair in a city without accessible transport. In the capability approach, what explains the difference in their well-being?
+
+Answerlist
+----------
+* Conversion factors
+* The Gini coefficient
+* The difference principle
+* Marginal productivity
+
+Solution
+========
+Conversion factors (personal, social, environmental) determine whether resources can be turned into functionings. Equal income does not mean equal real freedom.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Two people have the same income but one
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

@@ -1,0 +1,28 @@
+Question
+========
+Why does the module refer to Harari's argument about stories?
+
+Answerlist
+----------
+* Because inequality is sustained and contested through shared narratives such as meritocracy or market freedom
+* Because inequality data are invented
+* Because monkeys and humans have the same sense of fairness
+* Because only historians can explain inequality
+
+Solution
+========
+Harari argues that humans cooperate by believing in shared stories. Hierarchies, too, rest on stories that people accept or reject.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Why does the module refer to Hararis arg
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

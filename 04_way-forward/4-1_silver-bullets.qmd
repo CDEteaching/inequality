@@ -1,0 +1,26 @@
+## Hardly the Silver Bullets: Growth and Education
+
+For decades, policymakers assumed that two things would fix inequality: economic growth and better education. Growth was seen as a tide that lifts all boats; education as the great equaliser.
+
+**Growth.** As chapter 2 showed, growth can reduce income poverty. But growth is meaningless for reducing inequality if its gains keep going to the top 1% and little trickles down. In a world facing planetary boundaries, betting on ever more growth to solve distributional questions is also ecologically risky.
+
+**Education.** Access to schools and better education has been, and will remain, an important lever towards more equal societies. But it does not do the trick alone. In *The Tyranny of Merit* (2020), Michael Sandel challenges the education argument. Based on the US, he describes a society built on the belief that "what you earn will depend on what you learn":
+
+- Those at the top come to believe that their success is their own doing, a pure measure of their merit.
+- Those at the bottom have no one to blame but themselves.
+
+This generates hubris among the winners and humiliation among the losers, and prepares the ground for authoritarian populism. Sandel also notes that stagnating wages despite rising productivity were not caused by workers' lack of know-how, but by their lack of power (see section 3.4). Elizabeth Anderson makes a related point: productivity attaches mainly to work roles and to the capital put at a worker's disposal, not to individuals. More education alone leads to credential inflation rather than to more equality.
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q4-1a.Rmd", "quiz/q4-1b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- To what extent do you see your own educational success as your own doing? What role did your family, your school, and luck play?
+- Is meritocracy an ideal worth defending, or a problem? Can it be both?
+:::

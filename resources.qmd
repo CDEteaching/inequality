@@ -1,0 +1,116 @@
+# Resources {.unnumbered}
+
+Additional material to go deeper, ordered along the chapters of the module. Most items were first collected for the CDE Online Summer School 2021 and updated in 2023 and 2026.
+
+## Key reading
+
+- Lannen, A. (2019). [Inequality: What's in a word?](https://boris.unibe.ch/130698/) (S. Bieri and C. Bader, Eds.). CDE Policy Brief 14. Centre for Development and Environment, University of Bern. Sheds light on current inequality trends and discusses policies to reduce inequality within and between countries.
+
+## Data
+
+- [World Inequality Database (WID)](https://wid.world/): income and wealth data for most countries, with graphs and an [income comparator](https://wid.world/income-comparator/).
+- [World Inequality Report 2022](https://wir2022.wid.world/) (Chancel, Piketty, Saez, Zucman et al.).
+
+## Chapter 1: Inequality, what's in a word?
+
+- UN DESA. [Concepts of inequality](https://www.un.org/en/development/desa/policy/wess/wess_dev_issues/dsp_policy_01.pdf). Development Issues No. 1. Outcome- and opportunity-oriented views.
+- Stewart, F. (2016). [Changing perspectives on inequality and development](https://link.springer.com/content/pdf/10.1007/s12116-016-9222-x.pdf). *Studies in Comparative International Development* 51: 60 to 80.
+- Michael Sandel: [Justice, Episode 1](https://www.youtube.com/watch?v=kBdfcR-8hEY). Overview of theories of justice from his Harvard lecture.
+- INET: [Inequality 101](https://www.ineteconomics.org/perspectives/videos/inequality-101). Video series by Arjun Jayadev and Branko Milanovic.
+- Ha-Joon Chang: *Inequality: What is it and why does it matter?* Lecture in the INET series [Economics for People](https://www.ineteconomics.org/perspectives/videos/economics-for-people) on what inequality is and how it is measured.
+
+## Chapter 2: A tale of two stories
+
+- Pitchfork Economics: [What is the trick in trickle down? (with Yuval Harari and Molly Crockett)](https://pitchforkeconomics.com/episode/what-is-the-trick-in-trickle-down/). Podcast.
+- Finn Tarp and Miguel Niño-Zarazúa (UNU-WIDER): [Trends in global inequality](https://cepr.org/voxeu/video/trends-global-inequality). VoxEU video: relative global inequality has fallen, absolute inequality has risen.
+- Gradín, C. (2024). [Revisiting the trends in global inequality](https://doi.org/10.1016/j.worlddev.2024.106607). *World Development* 179: 106607.
+
+## Chapter 3: Why is inequality rising?
+
+- Robert Reich: [Everything you need to know about the new economy](https://www.youtube.com/watch?v=fMmH_2EYohQ). Video.
+- Thomas Piketty: [New thoughts on capital in the twenty-first century](https://hbr.org/video/embed/4102770682001). Harvard Business Review video.
+- Lazonick, W. (2014). [Profits without prosperity](https://hbr.org/2014/09/profits-without-prosperity). *Harvard Business Review*.
+- James Robinson: [Why nations fail](https://www.youtube.com/watch?v=btMLcRC36m0) (TEDxAcademy). Talk on the role of institutions.
+- Dabla-Norris, E. et al. (2015). [Causes and consequences of income inequality: A global perspective](https://www.imf.org/external/pubs/ft/sdn/2015/sdn1513.pdf). IMF Staff Discussion Note 15/13.
+- Richard Wilkinson: [How economic inequality harms societies](https://www.ted.com/talks/richard_wilkinson). TED talk on inequality, health, life expectancy, and trust.
+
+## Chapter 4: The way forward
+
+- Mariana Mazzucato: [The market shaping forces of capitalism](https://www.youtube.com/watch?v=qSt5suImn78). Lecture introducing the Rethinking Capitalism course.
+- Pitchfork Economics: [Why we need a mission-driven economy (with Mariana Mazzucato)](https://podcasts.apple.com/it/podcast/mission-economy-with-mariana-mazzucato/id1445901378?i=1000574743165). Podcast.
+- Nick Hanauer: [The dirty secret of capitalism, and a new way forward](https://www.ted.com/talks/nick_hanauer_the_dirty_secret_of_capitalism_and_a_new_way_forward). TED talk on reciprocity and cooperation.
+- Carlota Perez: *Technological revolutions and the shape of tomorrow*. Lecture; see her [list of recorded lectures](https://carlotaperez.org/videos-of-lectures-and-panels).
+- Gough, I. (2020). [The case for universal basic services](https://doi.org/10.31389/lseppr.12). *LSE Public Policy Review* 1(2).
+- Bader, C., Bieri, S. (2023). A world drifting apart: Challenges and possibilities of transitioning to a more equitable planet. In *Transitioning to Reduced Inequalities*. MDPI.
+
+## Further reading
+
+From the literature list of the 2021/2023 learning website. Titles already cited in the module are listed under [References](references.qmd).
+
+Albertson, K., and Stepney, P. (2019). 1979 and all that: A 40-year reassessment of Margaret Thatcher's legacy on her own terms. *Cambridge Journal of Economics* 44(2): 319–342. https://doi.org/10.1093/cje/bez037
+
+Alvaredo, F., Chancel, L., Piketty, T., Saez, E., and Zucman, G. (2018). *World Inequality Report 2018*. World Inequality Lab. https://wir2018.wid.world/
+
+Atkinson, A. B. (2015). *Inequality: What Can Be Done?* Harvard University Press.
+
+Beck, U. (2016). *Risikogesellschaft: Auf dem Weg in eine andere Moderne* (23rd ed.). Suhrkamp.
+
+Breu, T., Bergöö, M., Ebneter, L., Pham-Truffert, M., Bieri, S., Messerli, P., Ott, C., and Bader, C. (2021). Where to begin? Defining national strategies for implementing the 2030 Agenda: The case of Switzerland. *Sustainability Science* 16: 183–201.
+
+Brooks, C., and Manza, J. (2013). A broken public? Americans' responses to the Great Recession. *American Sociological Review* 78(5): 727–748. https://doi.org/10.1177/0003122413498255
+
+Bucca, M. (2016). Merit and blame in unequal societies: Explaining Latin Americans' beliefs about wealth and poverty. *Research in Social Stratification and Mobility* 44: 98–112. https://doi.org/10.1016/j.rssm.2016.02.005
+
+Canterbery, E. R. (2015). *The Rise and Fall of Global Austerity*. World Scientific.
+
+Chakrabarty, D. (2021). *The Climate of History in a Planetary Age*. University of Chicago Press.
+
+Chang, H.-J. (2002). *Kicking Away the Ladder: Development Strategy in Historical Perspective*. Anthem Press.
+
+Charbonnier, P. (2020). *Abondance et liberté: Une histoire environnementale des idées politiques*. La Découverte.
+
+Collier, P. (2019). *Sozialer Kapitalismus! Mein Manifest gegen den Zerfall unserer Gesellschaft* (2nd ed.). Siedler.
+
+Deaton, A. (2013). *The Great Escape: Health, Wealth, and the Origins of Inequality*. Princeton University Press.
+
+Dorninger, C., et al. (2021). Global patterns of ecologically unequal exchange: Implications for sustainability in the 21st century. *Ecological Economics* 179: 106824.
+
+Ferguson, J. (2015). *Give a Man a Fish: Reflections on the New Politics of Distribution*. Duke University Press.
+
+Ferreira, F. H. G., Sterck, O., Mahler, D. G., and Decerf, B. (2021). Death and destitution: The global distribution of welfare losses from the COVID-19 pandemic. *LSE Public Policy Review*. https://ppr.lse.ac.uk/articles/10.31389/lseppr.34/
+
+Föllmi, R., and Martínez, I. Z. (2017). *Die Verteilung von Einkommen und Vermögen in der Schweiz*. UBS Center Public Paper 6, University of Zurich.
+
+Grün, C., and Klasen, S. (2003). Growth, inequality, and well-being: Intertemporal and global comparisons. *CESifo Economic Studies* 49(4): 617–659.
+
+Hickel, J. (2017). *The Divide: A Brief Guide to Global Inequality and Its Solutions*. William Heinemann.
+
+Hickel, J. (2021). What does degrowth mean? A few points of clarification. *Globalizations* 18(7): 1105–1111.
+
+Jackson, T. (2021). *Post Growth: Life after Capitalism*. Polity.
+
+Kartha, S., Kemp-Benedict, E., Ghosh, E., and Nazareth, A. (2020). *The Carbon Inequality Era*. Stockholm Environment Institute and Oxfam. https://www.sei.org/publications/the-carbon-inequality-era/
+
+Klasen, S. (2016). *Rising Inequality in Developing Countries: What Can Be Done?* Views on Development 2. KfW Development Bank.
+
+Klasen, S. (2018). The impact of gender inequality on economic performance in developing countries. *Annual Review of Resource Economics* 10: 279–298.
+
+Kuziemko, I., Norton, M. I., Saez, E., and Stantcheva, S. (2015). How elastic are preferences for redistribution? Evidence from randomized survey experiments. *American Economic Review* 105(4): 1478–1508.
+
+Martínez, I. Z., Kopp, D., Lalive, R., Pichler, S., and Siegenthaler, M. (2021). *Corona und Ungleichheit in der Schweiz*. KOF Studien 161. KOF Swiss Economic Institute, ETH Zurich.
+
+Nachtwey, O. (2016). *Die Abstiegsgesellschaft: Über das Aufbegehren in der regressiven Moderne*. Suhrkamp.
+
+Oberholzer, B. (2021). *Die globale Armut bekämpfen*. Springer Gabler.
+
+Rajan, R. (2019). *The Third Pillar: How Markets and the State Leave the Community Behind*. Penguin Press.
+
+Reckwitz, A. (2017). *Die Gesellschaft der Singularitäten: Zum Strukturwandel der Moderne*. Suhrkamp.
+
+Saez, E., and Zucman, G. (2019). *The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay*. W. W. Norton.
+
+Wade, R. H. (2014). The Piketty phenomenon and the future of inequality. *Real-World Economics Review* 69: 2–17. http://paecon.net/PAEReview/issue69/Wade69.pdf
+
+Wegerif, M. C. A., and Guereña, A. (2020). Land inequality trends and drivers. *Land* 9(4): 101.
+
+Wilkinson, R., and Pickett, K. (2009). *The Spirit Level: Why More Equal Societies Almost Always Do Better*. Allen Lane.

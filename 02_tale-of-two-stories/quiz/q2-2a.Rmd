@@ -1,0 +1,28 @@
+Question
+========
+In the elephant curve for 1988 to 2008, who gained most in relative terms (point A)?
+
+Answerlist
+----------
+* The emerging middle classes in Asia, above all in China
+* The lower middle classes in Western Europe and North America
+* The poorest 5% of the world
+* Nobody; all groups grew equally
+
+Solution
+========
+Point A, around the median of the global distribution, marks relative gains of 70 to 80%, mostly in the new middle classes of Asia.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: In the elephant curve for 1988 to 2008 w
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

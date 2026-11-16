@@ -1,0 +1,14 @@
+---
+title: "A Tale of Two Stories"
+lightbox: true
+---
+
+Now that we have sorted out what inequality means, we look at how it has evolved. This chapter focuses on income inequality and on the relationship between economic growth, poverty, and inequality. You will meet two stories about recent decades. Both are based on the same data. Your task is to work out what each story highlights, what it hides, and which one you find more convincing.
+
+{{< include "2-1_stories.qmd" >}}
+
+{{< include "2-2_elephant.qmd" >}}
+
+{{< include "2-3_absolute.qmd" >}}
+
+{{< include "2-4_beyond-income.qmd" >}}

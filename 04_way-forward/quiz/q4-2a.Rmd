@@ -1,0 +1,28 @@
+Question
+========
+What does the Inequality-adjusted Human Development Index (IHDI) do?
+
+Answerlist
+----------
+* It discounts a country's human development achievements by the inequality in their distribution
+* It measures only income inequality
+* It ranks countries by the wealth of the top 1%
+* It replaces GDP with happiness surveys
+
+Solution
+========
+The IHDI shows how much human development is lost due to inequality in health, education, and income.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What does the Inequalityadjusted Human D
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

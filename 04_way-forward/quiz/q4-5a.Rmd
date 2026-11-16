@@ -1,0 +1,28 @@
+Question
+========
+According to Milanovic (2025), what share of households in advanced and middle-income economies have zero or close to zero cash income from capital?
+
+Answerlist
+----------
+* About 77%
+* About 7%
+* About 27%
+* About 50%
+
+Solution
+========
+Because so few own productive capital, technologies that raise the importance of capital, such as AI, tend to benefit those who already own it.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: According to Milanovic 2025 what share o
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

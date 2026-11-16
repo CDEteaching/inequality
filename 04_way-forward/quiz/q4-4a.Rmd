@@ -1,0 +1,28 @@
+Question
+========
+What distinguishes pre-distribution from redistribution?
+
+Answerlist
+----------
+* Pre-distribution shapes market incomes before taxes, for example through bargaining power, pay rules, and ownership
+* Pre-distribution means higher income taxes
+* Pre-distribution only concerns inheritance
+* There is no difference
+
+Solution
+========
+Redistribution corrects outcomes through taxes and transfers; pre-distribution makes the distribution of market income itself more equal.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What distinguishes predistribution from
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

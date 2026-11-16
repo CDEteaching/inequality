@@ -1,0 +1,28 @@
+Question
+========
+What does Piketty's formula r > g describe?
+
+Answerlist
+----------
+* When the return on capital exceeds economic growth, wealth grows faster than incomes from work
+* When growth exceeds interest rates, inequality rises
+* Wages always grow faster than productivity
+* Redistribution reduces growth
+
+Solution
+========
+If r > g, those who own capital pull ahead of those who live from work, and wealth concentrates.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What does Pikettys formula r  g describe
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

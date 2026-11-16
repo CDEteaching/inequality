@@ -1,0 +1,28 @@
+Question
+========
+Which three questions does Hickel's critique raise about the claim that global poverty is falling?
+
+Answerlist
+----------
+* The China effect, the choice of poverty line, and relative versus absolute perspectives
+* Inflation, exchange rates, and interest rates
+* Population growth, migration, and urbanisation
+* Gini, Palma, and Theil
+
+Solution
+========
+Much of the decline happened in China; low poverty lines show more progress than higher ones; and shares can fall while numbers stay high.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Which three questions does Hickels criti
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

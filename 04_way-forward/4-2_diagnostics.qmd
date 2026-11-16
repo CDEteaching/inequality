@@ -1,0 +1,24 @@
+## Improve the Diagnosis
+
+Policies can only be as good as the diagnosis they rest on. A first step is to substantiate the story of inequality with measures that are multidimensional, sensitive to the extremes, and inclusive of groups:
+
+- **Poverty:** multidimensional poverty measures look at deprivations in education, health, and living standards, not only income. As the Laos case showed (section 2.4), they often identify different people as poor than monetary measures do (Bader et al. 2016).
+- **Inequality:** the Palma ratio (section 1.3) and the Inequality-adjusted Human Development Index (IHDI) of UNDP, which discounts a country's human development achievements by the inequality in their distribution.
+- **Horizontal inequalities:** data broken down by ethnicity, region, gender, or age make structural exclusion visible.
+- **Wealth and the top:** better data on wealth, inheritances, and top incomes, which household surveys tend to miss.
+
+Such measures should be complemented by bottom-up, grounded experiences of what it means to be poor or excluded, and by tools to assess the distributional impact of a broad set of policies, including economic and fiscal policies. They build powerful arguments about inequality and how best to fight it.
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q4-2a.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Which group in your country do you think is invisible in standard income statistics?
+- Which indicator would you add to your country's official statistics, and why?
+:::

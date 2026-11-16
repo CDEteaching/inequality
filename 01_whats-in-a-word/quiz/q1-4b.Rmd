@@ -1,0 +1,28 @@
+Question
+========
+What does Kalecki's phrase "workers spend what they get and capitalists get what they spend" imply?
+
+Answerlist
+----------
+* The distribution between wages and profits shapes demand, investment, and macroeconomic stability
+* Workers save more than capitalists
+* Distribution has no effect on the economy as a whole
+* Wages are always paid according to marginal productivity
+
+Solution
+========
+Because workers spend most of their income, a higher wage share supports demand. Profits that are not reinvested weaken demand. Distribution is a macroeconomic question.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What does Kaleckis phrase workers spend
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

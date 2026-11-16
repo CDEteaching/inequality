@@ -1,0 +1,26 @@
+## Choosing an Analytical Lens
+
+Chapter 1 showed that our concepts shape what we see. Before looking at further explanations, it helps to be explicit about the lens this module uses.
+
+| Element | Choice in this module |
+|---|---|
+| **Concept of justice** | The capability approach (Sen, Nussbaum), complemented by collectivist perspectives that ask about the structures of society (for example Sandel) |
+| **Approach** | Systemic and structural: inequality is analysed as an outcome of institutions, rules, and power relations, not only of individual attributes (Bader and Bieri 2023) |
+
+Even if technology matters, it operates within a social structure. People, firms, and governments decide who owns new technologies and who benefits from them. Inequality is therefore shaped by institutions and power, not only by markets.
+
+A different lens would lead to different findings. A purely individual approach would focus on education and effort; a libertarian lens would see little need for explanation at all as long as exchanges are voluntary. Being transparent about the lens is part of good analysis.
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q3-2a.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Which lens would you choose for analysing inequality in your country, and why?
+- What might the lens of this module overlook?
+:::

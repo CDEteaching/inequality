@@ -1,0 +1,28 @@
+Question
+========
+If the incomes of all people in a country grow by 10%, what happens to the Gini coefficient?
+
+Answerlist
+----------
+* It stays the same, although the absolute gap grows
+* It rises
+* It falls
+* It cannot be computed anymore
+
+Solution
+========
+The Gini is a relative measure. Equal percentage growth leaves it unchanged, while absolute differences in money increase.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: If the incomes of all people in a countr
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

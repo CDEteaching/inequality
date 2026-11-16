@@ -1,0 +1,28 @@
+Question
+========
+What conclusion does the conventional wisdom typically draw about rising inequality?
+
+Answerlist
+----------
+* It is essentially a natural market process; the answer is to invest in skills
+* It is the result of political choices that should be reversed
+* It is caused mainly by inheritance
+* It is a statistical artefact
+
+Solution
+========
+The conventional story portrays inequality as a neutral market outcome, which hides the institutional and political choices behind it.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What conclusion does the conventional wi
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

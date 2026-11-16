@@ -1,0 +1,28 @@
+Question
+========
+What is the "paradox of inequality" described by Mijs (2021)?
+
+Answerlist
+----------
+* In more unequal societies, people are more likely to explain inequality by merit
+* In more unequal societies, people are more aware of structural causes
+* People overestimate inequality
+* Inequality has no effect on beliefs
+
+Solution
+========
+Inequality and the belief in meritocracy go hand in hand; people in more equal countries see structural causes more often.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What is the paradox of inequality descri
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

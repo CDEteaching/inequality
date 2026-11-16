@@ -1,0 +1,28 @@
+Question
+========
+Why can the current tax system create incentives towards "excessive automation"?
+
+Answerlist
+----------
+* Because labour is taxed heavily relative to capital, making machines artificially cheap
+* Because robots pay income tax
+* Because automation is subsidised by trade unions
+* Because capital is taxed more than labour
+
+Solution
+========
+Heavy taxes and social contributions on labour, compared with capital, push firms to replace workers even where productivity gains are small.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Why can the current tax system create in
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

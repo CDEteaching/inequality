@@ -1,0 +1,28 @@
+Question
+========
+What are countervailing powers in Galbraith's sense?
+
+Answerlist
+----------
+* Trade unions, cooperatives, small retailers, and public regulation that balance corporate power
+* Large corporations that compete with each other
+* Central banks that set interest rates
+* International organisations such as the IMF
+
+Solution
+========
+Galbraith argued capitalism works acceptably only when counterweights balance the power of large corporations.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: What are countervailing powers in Galbra
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

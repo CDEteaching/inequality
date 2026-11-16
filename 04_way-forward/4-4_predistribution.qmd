@@ -1,0 +1,47 @@
+## From Redistribution to Fair Pre-distribution
+
+Fiscal policy is not merely technical. It is a moral and political choice about what kind of society we want. Two complementary approaches exist.
+
+**Redistribution** corrects market outcomes after the fact, through taxes and transfers:
+
+- higher taxes on capital, data, and resources relative to labour (Acosta 2017)
+- inheritance taxes, to counter the concentration of wealth and political power across generations (plutocracy)
+- international cooperation against tax avoidance: in 2021, more than 130 countries agreed on a global minimum tax of 15% for large multinational companies (OECD)
+
+**Pre-distribution** aims to make the distribution of market incomes itself more equal, before taxes (Hacker 2011; Bozio et al. 2020). It acts on bargaining power, wage-setting rules, corporate law, and trade regimes:
+
+- limits on top pay, for example relative to the median wage in a company
+- living wages and job guarantees for the lowest-paid
+- broader ownership of capital, for example through employee stock ownership plans
+- democratising companies
+- universal basic services
+
+Pre-distribution has gained support since the crises of recent years. After the 2007/08 financial crisis, governments argued they had no choice but to cut services. The COVID-19 pandemic showed that states do have other options: austerity was halted almost overnight and unprecedented fiscal resources were mobilised.
+
+### Re-embedding the economy
+
+Karl Polanyi warned that when markets become "disembedded" from society, social and ecological crises follow. Two proposals aim to re-embed the economy.
+
+**Spreading ownership of capital.** An employee stock ownership plan enables employees to own part or all of the company they work for. Yanis Varoufakis (2020) sketches a more radical version: every employee receives one share when hired, which cannot be sold, and which gives one vote. All major decisions are taken collectively, with the intranet acting as a permanent shareholders' assembly. Equal ownership does not mean equal pay: employees decide together how revenues are split between costs, investment, basic pay, and bonuses. As Varoufakis asks, why should executives be paid in company shares, but not workers?
+
+**Universal basic services (UBS).** Unlike a universal basic income, which pays cash, UBS focuses on collective provision of what everyone needs: housing, health care, education, care, mobility, and digital access (Coote and Percy 2020; Gough 2020). Its principles:
+
+- **Services**: collectively generated activities that serve the public interest
+- **Basic**: essential and sufficient to meet needs, not a minimal safety net for the "left behind"
+- **Universal**: everyone is entitled, regardless of their ability to pay
+
+UBS counteracts commodification (section 3.3). It also links social and ecological goals: human needs, unlike wants, are limited and satiable, so meeting everyone's needs within planetary boundaries is possible. Many services depend on people and relationships rather than on energy-intensive hardware. Examples range from public housing in Vienna to free public transport in Luxembourg and childcare in the Nordic countries.
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q4-4a.Rmd", "quiz/q4-4b.Rmd", "quiz/q4-4c.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- Is pre-distribution a fairer approach to tackling inequality than redistribution? Or does it go too far into the freedom of firms?
+- Which service in your city would you make universal and free at the point of use first?
+:::

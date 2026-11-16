@@ -1,0 +1,48 @@
+## Individual or Structural?
+
+How should we explain inequality? Two broad approaches compete.
+
+- **Individual approach**: inequality is analysed at the level of the individual. Economic inequalities are primarily the result of personal attributes and efforts: education, talent, choices, hard work. This is the dominant view in neoclassical (marginalist) economics.
+- **Structural approach**: inequalities are built into the structure of society and into social positions, for example through citizenship (where you are born) or your position in relation to the means of production (whether you own capital or sell your labour). This view is rooted in classical political economy and in post-Keynesian and Marxian traditions.
+
+Think of a running race in which one runner starts on a clear track while three others have hurdles in their lanes. No matter how hard the three try, they tend to fall behind. The individual approach looks at the runners; the structural approach looks at the track.
+
+### From effort to structure
+
+How much of your income is your own doing? Branko Milanovic, one of the leading researchers on global inequality, gives a striking answer:
+
+> "When you ask how much of the total income [...] can be explained by the variable of the country of birth, you basically get an answer of 0.6. [...] 60% of your lifetime income is determined by your place of birth." (Milanovic, interview 2019)
+
+Adding the income position of your parents, Milanovic estimates that about 80% of income differences across the world can be explained by two factors nobody chooses: country of birth (about 60%) and parents' income (about 20%). The remaining 20% is left for effort, luck, and everything else. Milanovic calls the premium of being born in a rich country a "citizenship rent." These numbers challenge the idea that inequality mainly reflects merit.
+
+### Position in relation to the means of production
+
+Two hundred years ago, David Ricardo put distribution at the very centre of economics:
+
+> "The produce of the earth, all that is derived from its surface by the united application of labour, machinery, and capital, is divided among three classes of the community; namely, the proprietor of the land, the owner of the stock or capital necessary for its cultivation, and the labourers by whose industry it is cultivated. [...] To determine the laws which regulate this distribution, is the principal problem in Political Economy." (Ricardo 1817, Preface)
+
+Landowners receive **rent**, capital owners **profit**, and workers **wages**. Who owns productive assets therefore shapes everything from income patterns to political power.
+
+From the late 19th century, the marginalist revolution shifted the focus of economics from class-based distribution to individual utility and marginal productivity. In this view, each factor of production is paid according to what it adds to output: a worker who adds two cars a day is paid the value of those two cars. Distribution becomes a technical outcome of markets rather than a question of power.
+
+Michał Kalecki (1954) brought distribution back into macroeconomics. In his model, "workers spend what they get and capitalists get what they spend." Because workers spend most of their income, a higher wage share tends to raise demand. A higher profit share can boost investment, but only if profits are reinvested; otherwise it leads to weak demand and stagnation. Distribution is therefore not only a moral question but a question of macroeconomic stability.
+
+::: {.callout-note collapse="true"}
+## Deep dive: Inequality 101
+
+The Institute for New Economic Thinking (INET) offers a short video series on the basics of inequality by Arjun Jayadev and Branko Milanovic: [Inequality 101](https://www.ineteconomics.org/perspectives/videos/inequality-101).
+:::
+
+### Check your understanding {.unnumbered .unlisted}
+
+```{r}
+#| results: asis
+exams2forms::exams2forms(c("quiz/q1-4a.Rmd", "quiz/q1-4b.Rmd"), n = 1)
+```
+
+::: {.callout-tip collapse="true"}
+## Reflect
+
+- To what extent can effort explain income differences in your own environment? Think of two people you know well.
+- Which approach (individual or structural) dominates the way inequality is discussed in the media of your country?
+:::

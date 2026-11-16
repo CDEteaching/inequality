@@ -1,0 +1,28 @@
+Question
+========
+How do universal basic services (UBS) differ from a universal basic income (UBI)?
+
+Answerlist
+----------
+* UBS provides essential services collectively, while UBI pays cash to individuals
+* UBS is only for the poorest
+* UBS pays a higher cash amount than UBI
+* They are the same
+
+Solution
+========
+UBS guarantees access to housing, health, education, care, mobility, and digital access as rights, counteracting commodification.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: How do universal basic services UBS diff
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE

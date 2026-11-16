@@ -1,0 +1,16 @@
+---
+title: "The Way Forward: Politics of Inequality"
+lightbox: true
+---
+
+We have analysed what inequality is, how it has developed, and why it is rising. Now comes the critical question: what can be done? If inequality is produced by rules and institutions, it can be reduced by changing them. Addressing inequality requires more than redistribution after the fact. It means rethinking how value is created, who owns productive assets, and how power is shared. This chapter presents five directions, building on the analytical lens of chapter 3, and ends by asking where you stand.
+
+{{< include "4-1_silver-bullets.qmd" >}}
+
+{{< include "4-2_diagnostics.qmd" >}}
+
+{{< include "4-3_value.qmd" >}}
+
+{{< include "4-4_predistribution.qmd" >}}
+
+{{< include "4-5_position.qmd" >}}

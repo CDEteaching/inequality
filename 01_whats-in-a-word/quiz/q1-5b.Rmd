@@ -1,0 +1,28 @@
+Question
+========
+Rawls's difference principle states that inequalities are acceptable only if they ...
+
+Answerlist
+----------
+* benefit the least advantaged
+* result from hard work
+* are below a Gini of 0.3
+* are approved by a majority vote
+
+Solution
+========
+Behind the veil of ignorance, Rawls argues, people would accept inequalities only if they work to the benefit of the least well-off.
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+
+Meta-information
+================
+exname: Rawlss difference principle states that
+extype: schoice
+exsolution: 1000
+exshuffle: TRUE
