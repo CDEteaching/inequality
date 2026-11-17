@@ -104,3 +104,28 @@ $toc-active-background: #EEECEA!default;
   font-size: 0.8rem;   // or 0.8rem if you need smaller
   line-height: 1.25;
 }
+
+/* Chapter header images */
+img.chapter-header {
+  width: 100%;
+  aspect-ratio: 12 / 5;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 0.25rem;
+}
+
+.header-credit {
+  font-size: 0.75rem;
+  color: var(--bs-gray-600);
+  margin-bottom: 1.5rem;
+}
+
+/* Chapter cards on the welcome page */
+.chapter-cards img {
+  width: 100%;
+  aspect-ratio: 12 / 5;
+  object-fit: cover;
+  border-radius: 4px;
+  transition: opacity .2s;
+}
+.chapter-cards a:hover img { opacity: .85; }

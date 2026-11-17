@@ -3,6 +3,12 @@ title: "A Tale of Two Stories"
 lightbox: true
 ---
 
+![](images/header.jpg){.chapter-header .no-lightbox fig-alt="Two black chickens, one in front of the other, so that they look like one bird with two heads."}
+
+::: {.header-credit}
+Photo: ["Janus-Chicken"](https://flickr.com/photos/carbonnyc/15746223776) by David Goehring (CarbonNYC), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), cropped.
+:::
+
 Now that we have sorted out what inequality means, we look at how it has evolved. This chapter focuses on income inequality and on the relationship between economic growth, poverty, and inequality. You will meet two stories about recent decades. Both are based on the same data. Your task is to work out what each story highlights, what it hides, and which one you find more convincing.
 
 {{< include "2-1_stories.qmd" >}}

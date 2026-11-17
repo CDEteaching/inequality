@@ -31,6 +31,7 @@ Every section ends with **Check your understanding** (quiz) and **Reflect** (ope
 ## Figures
 
 - `images/banner.jpg`: header banner. Photo by [Zoshua Colah](https://unsplash.com/@zoshuacolah) on [Unsplash](https://unsplash.com/photos/n58coLztH9E) (Byculla, Mumbai), [Unsplash License](https://unsplash.com/license), not covered by CC BY-NC-SA. Quote: Obama, remarks on economic mobility, 4 December 2013 ("I believe this is the defining challenge of our time"). Rebuild with `images/make_banner.py` (Pillow, Roboto, CDE navy/orange).
+- `0N_.../images/header.jpg`: chapter header images, taken from the chapter title slides of *WinterSchool26_Inequality_Bader.pptx* (slides 5, 16, 29, 40) and cropped to 12:5. Also used as chapter cards on the welcome page. Ch. 2: "Janus-Chicken" by David Goehring, CC BY 2.0. Ch. 4: "Income Inequality" by mSeattle, CC BY 2.0. Ch. 1 (clothes cage): own photo, Christoph Bader, CC BY-NC-SA 4.0. Ch. 3 ("We are the 99%" sign): CC-licensed (photographer not recorded).
 - `01_.../images/lorenz-gini-palma.png`: own figure, illustrative data; rebuild with `lorenz-gini-palma.py` (matplotlib, CDE palette).
 - `02_.../images/elephant_absolute_*`: own charts (C. Bader 2019, rebuilt 2026 with the `cde-charts` skill). Values digitised from the original slide, approximate; see `elephant_absolute.csv`. Source data: Lakner and Milanovic (2016), World Bank (2016).
 

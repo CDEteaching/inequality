@@ -21,13 +21,41 @@ After completing this module, you can:
 
 ## Structure
 
-| Chapter | Guiding question |
-|---|---|
-| 1 Inequality: What's in a word? | What do we mean by inequality, and how can we measure and analyse it? |
-| 2 A tale of two stories | What has happened to global inequality since the fall of the Berlin Wall? |
-| 3 Why is inequality rising? | Which forces drive inequality, and is it a natural market outcome? |
-| 4 The way forward | What can be done, and where do you stand? |
+::: {.grid .chapter-cards}
 
+::: {.g-col-12 .g-col-md-6}
+[![](01_whats-in-a-word/images/header.jpg){.no-lightbox fig-alt=""}](01_whats-in-a-word/1_chapter.qmd)
+
+**[1 Inequality: What's in a word?](01_whats-in-a-word/1_chapter.qmd)**
+
+What do we mean by inequality, and how can we measure and analyse it?
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[![](02_tale-of-two-stories/images/header.jpg){.no-lightbox fig-alt=""}](02_tale-of-two-stories/2_chapter.qmd)
+
+**[2 A tale of two stories](02_tale-of-two-stories/2_chapter.qmd)**
+
+What has happened to global inequality since the fall of the Berlin Wall?
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[![](03_why-rising/images/header.jpg){.no-lightbox fig-alt=""}](03_why-rising/3_chapter.qmd)
+
+**[3 Why is inequality rising?](03_why-rising/3_chapter.qmd)**
+
+Which forces drive inequality, and is it a natural market outcome?
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[![](04_way-forward/images/header.jpg){.no-lightbox fig-alt=""}](04_way-forward/4_chapter.qmd)
+
+**[4 The way forward](04_way-forward/4_chapter.qmd)**
+
+What can be done, and where do you stand?
+:::
+
+:::
 
 ## Acknowledgements, license and citation
 
