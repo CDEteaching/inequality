@@ -40,16 +40,6 @@ Built with Quarto (book) and knitr. Requires R with the packages `exams` and `ex
 
 To add a quiz item, copy an existing `.Rmd` in the chapter's `quiz/` folder and add it to the `exams2forms(...)` call at the end of the section file. Paths are relative to the chapter folder.
 
-## Open items before publishing
-
-Decisions and open questions are tracked in the vault note `4_Project notes/CDE github OER/2026-11-16 Project note - Inequality e-learning module.md`. Still open:
-
-- [ ] Better original source for the income composition in 4.5 (currently SSRC Items).
-- [ ] Figures from the slides (WID/WIR, ILO, SGB, Gradín) are not included. WID and WIR state no licence on their websites: ask the World Inequality Lab for permission before rebuilding their charts.
-- [ ] Winter school page: Miro, Menti and Slack are session-specific; update per edition.
-- [ ] Move references to `references.bib`.
-- [ ] Render, check quizzes and video embeds, enable GitHub Pages from `docs/`.
-
 ## License
 
 Unless otherwise indicated, all materials are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
