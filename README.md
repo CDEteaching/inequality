@@ -1,5 +1,7 @@
 # Inequality: A Tale of Two Stories. Open e-learning module, CDE, University of Bern
 
+![Quote by Barack Obama (2013): the defining challenge of our time. Photo of Byculla, Mumbai](images/banner.jpg)
+
 An open, self-paced module on concepts, trends, causes, and the politics of inequality, by the [Centre for Development and Environment (CDE)](https://www.cde.unibe.ch/). It also serves as preparation and follow-up for the inequality session of the CDE Online International Winter School.
 
 **Online module:** https://cdeteaching.github.io/inequality/ (once published)
@@ -28,6 +30,7 @@ Every section ends with **Check your understanding** (quiz) and **Reflect** (ope
 
 ## Figures
 
+- `images/banner.jpg`: header banner. Photo by [Zoshua Colah](https://unsplash.com/@zoshuacolah) on [Unsplash](https://unsplash.com/photos/n58coLztH9E) (Byculla, Mumbai), [Unsplash License](https://unsplash.com/license), not covered by CC BY-NC-SA. Quote: Obama, remarks on economic mobility, 4 December 2013 ("I believe this is the defining challenge of our time"). Rebuild with `images/make_banner.py` (Pillow, Roboto, CDE navy/orange).
 - `01_.../images/lorenz-gini-palma.png`: own figure, illustrative data; rebuild with `lorenz-gini-palma.py` (matplotlib, CDE palette).
 - `02_.../images/elephant_absolute_*`: own charts (C. Bader 2019, rebuilt 2026 with the `cde-charts` skill). Values digitised from the original slide, approximate; see `elephant_absolute.csv`. Source data: Lakner and Milanovic (2016), World Bank (2016).
 

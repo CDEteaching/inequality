@@ -1,36 +1,13 @@
 # Welcome {.unnumbered}
 
+![](images/banner.jpg){fig-alt="Quote by Barack Obama (2013): '...the defining challenge of our time.' Next to it, a photo of Byculla, Mumbai, where high-rise towers stand above informal settlements with blue tarpaulin roofs." width="100%"}
+
 In 2013, Barack Obama called rising inequality "the defining challenge of our time." Since then, the topic has moved from the margins of economics to the centre of public debate. Yet people who agree that inequality matters often mean very different things by it, read the same data in opposite ways, and propose opposite remedies.
 
 This module takes that disagreement seriously. Its title, *a tale of two stories*, refers to the two narratives that dominate the debate: one of progress, in which global growth has lifted billions out of extreme poverty and countries have converged, and one of polarisation, in which societies drift apart and the gains of growth flow to the top. Both stories rest on empirical evidence. Learning to see which assumptions, measures, and theories of justice sit behind each story is the core skill this module trains.
 
 The module accompanies the inequality session of the **CDE Online International Bachelor and Master Winter School**. It is an open educational resource by the [Centre for Development and Environment (CDE)](https://www.cde.unibe.ch/), University of Bern, so anyone interested can use it. No prior knowledge of economics is required.
 
-## How to use this module
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-::: {.callout-note appearance="simple"}
-## Before the session
-
-Read chapter 1 and complete the preparatory exercise **My inequality graph** (section 2.4). Post your graph on the session's Miro board.
-
-See [Live session](winter-school/session.qmd).
-:::
-:::
-
-::: {.g-col-12 .g-col-md-6}
-::: {.callout-note appearance="simple"}
-## After the session
-
-Work through chapters 2 to 4 at your own pace to deepen what we discussed. Every section ends with a short quiz and reflection questions. Nothing is graded.
-
-**Workload:** about 6 to 8 hours in total.
-:::
-:::
-
-:::
 
 ## Learning outcomes
 
@@ -51,14 +28,6 @@ After completing this module, you can:
 | 3 Why is inequality rising? | Which forces drive inequality, and is it a natural market outcome? |
 | 4 The way forward | What can be done, and where do you stand? |
 
-## How each section works
-
-| Element | What it is | Who it is for |
-|---|---|---|
-| **Check your understanding** | Short interactive quiz with instant feedback | Everyone |
-| **Reflect** | Open questions linking the content to your own experience and to current debates. Note your answers: section 4.5 asks you to look back at them. | Everyone |
-| **Exercise** | Short practice task, done alone or with peers, with a "What a good answer covers" checklist (sections 2.4 and 3.5) | Everyone |
-| **Deep dive** | Optional material for those who want to go further | Optional |
 
 ## Acknowledgements, license and citation
 
