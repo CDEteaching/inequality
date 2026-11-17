@@ -4,6 +4,8 @@ Acosta, A. (2017). Post-extractivism: From discourse to practice. In G. Carbonni
 
 Atkinson, A. B. (1970). On the measurement of inequality. *Journal of Economic Theory* 2(3): 244–263. Reprinted with a non-mathematical summary in A. B. Atkinson (Ed.) (1973), *Wealth, Income and Inequality* (pp. 46–68). Penguin Education.
 
+Autor, D. H., Levy, F., and Murnane, R. J. (2003). The skill content of recent technological change: An empirical exploration. *The Quarterly Journal of Economics* 118(4): 1279–1333. https://doi.org/10.1162/003355303322552801
+
 Bader, C., and Bieri, S. (2017). *Global Inequality Briefing Paper*. Swiss Agency for Development and Cooperation (SDC).
 
 Bader, C., and Bieri, S. (2023). A world drifting apart: Challenges and possibilities of transitioning to a more equitable planet. In *Transitioning to Reduced Inequalities* (pp. 1–18). MDPI.
@@ -26,9 +28,13 @@ Coote, A., and Percy, A. (2020). *The Case for Universal Basic Services*. Polity
 
 Dabla-Norris, E., Kochhar, K., Suphaphiphat, N., Ricka, F., and Tsounta, E. (2015). *Causes and Consequences of Income Inequality: A Global Perspective*. IMF Staff Discussion Note 15/13. https://www.imf.org/external/pubs/ft/sdn/2015/sdn1513.pdf
 
+Eloundou, T., Manning, S., Mishkin, P., and Rock, D. (2024). GPTs are GPTs: Labor market impact potential of LLMs. *Science* 384(6702): 1306–1308. https://doi.org/10.1126/science.adj0998
+
 Friedman, M., and Friedman, R. (1980). *Free to Choose*. Harcourt.
 
 Galbraith, J. K. (1952). *American Capitalism: The Concept of Countervailing Power*. Houghton Mifflin.
+
+Goos, M., Manning, A., and Salomons, A. (2014). Explaining job polarization: Routine-biased technological change and offshoring. *American Economic Review* 104(8): 2509–2526. https://doi.org/10.1257/aer.104.8.2509
 
 Gough, I. (2020). The case for universal basic services. *LSE Public Policy Review* 1(2). https://doi.org/10.31389/lseppr.12
 

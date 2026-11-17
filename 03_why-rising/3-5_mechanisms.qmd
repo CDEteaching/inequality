@@ -10,7 +10,7 @@ For Piketty, this is not a law of nature. Inequality, he argues in *Capital and 
 
 ### Matthew effects
 
-Socio-economic research identifies **cumulative advantage**, or Matthew effects ("for whoever has, to him more will be given"): those with high incomes can save a larger share of their income than those with low incomes, and capital owners often earn higher returns than small savers. Both effects reinforce each other. Even pure chance can produce extreme concentration: if wealth grows by a random percentage each year, a small group ends up owning a large share over time, even without any systematic advantage. In such processes, the "average" outcome says little about what a typical person experiences.
+Socio-economic research identifies **cumulative advantage**, or Matthew effects ("for whoever has, to him or her more will be given"): those with high incomes can save a larger share of their income than those with low incomes, and capital owners often earn higher returns than small savers. Both effects reinforce each other. Even pure chance can produce extreme concentration: if wealth grows by a random percentage each year, a small group ends up owning a large share over time, even without any systematic advantage. In such processes, the "average" outcome says little about what a typical person experiences.
 
 ::: {.callout-note collapse="true"}
 ## Deep dive: Thomas Piketty on *Capital in the Twenty-First Century*

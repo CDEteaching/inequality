@@ -1,6 +1,6 @@
 ## Story Two: The Absolute View
 
-Now look at the same data from a different angle. The red line shows not the *percentage* growth but the growth of income in *dollars* for each percentile.
+Now look at the exact same data from a different angle. The red line shows not the *percentage* growth but the growth of income in *dollars* for each percentile.
 
 ![Relative (black) and absolute (red) income growth by percentile of the global income distribution, 1988 to 2008. Graph: C. Bader, based on Lakner and Milanovic (2016) and World Bank (2016, p. 7). Values digitised from the original graph; approximate.](images/elephant_absolute_2_add_absolute.gif){#fig-elephant-absolute}
 
